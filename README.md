@@ -37,10 +37,10 @@ This project trains and evaluates multiple ML classifiers to detect network intr
 
 Healthcare IoT devices are increasingly targeted by cyberattacks, yet many lack robust intrusion detection capabilities. This project:
 
-- Provides a **reproducible benchmark** for IoMT intrusion detection using the most comprehensive publicly available dataset in this domain (18 attack types, 40 devices, 3 protocols)
-- Enables **side-by-side algorithm comparison** with standardized evaluation metrics (precision, recall, F1-score)
-- Demonstrates the **impact of hyperparameter tuning** on detection performance
-- Serves as a **starting point** for researchers and students building or extending IoMT security solutions
+- Provides a reproducible benchmark for IoMT intrusion detection using the most comprehensive publicly available dataset in this domain (18 attack types, 40 devices, 3 protocols)
+- Enables side-by-side algorithm comparison with standardized evaluation metrics (precision, recall, F1-score)
+- Demonstrates the impact of hyperparameter tuning on detection performance
+- Serves as a starting point for researchers and students building or extending IoMT security solutions
 
 ---
 
