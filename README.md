@@ -1,6 +1,6 @@
 # Healthcare IoT Network Intrusion Detection System
 
-A machine learning-based Network Intrusion Detection System (NIDS) for Internet of Medical Things (IoMT) devices, trained and evaluated on the [CIC IoMT Dataset 2024](https://www.unb.ca/cic/datasets/iomt-dataset-2024.html). This project benchmarks three classification algorithms — Random Forest, Histogram Gradient Boosting, and Multi-layer Perceptron — against both binary (attack/benign) and multiclass (attack category) detection tasks.
+A machine learning-based Network Intrusion Detection System (NIDS) for Internet of Medical Things (IoMT) devices, trained and evaluated on the [CIC IoMT Dataset 2024](https://www.unb.ca/cic/datasets/iomt-dataset-2024.html) built as part of **CMPE 132 - Information Security** at San Jose State University. This project benchmarks three classification algorithms — Random Forest, Histogram Gradient Boosting, and Multi-layer Perceptron — against both binary (attack/benign) and multiclass (attack category) detection tasks.
 
 ---
 
@@ -167,6 +167,6 @@ To view results without re-running training, open `NIDS.ipynb` in GitHub or Jupy
 
 ---
 
-## Contributors
+## License
 
-Developed as a course project for **CMPE 132 – Information Security** at San José State University.
+This project was built for academic use.
