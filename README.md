@@ -162,7 +162,7 @@ To view results without re-running training, open `NIDS.ipynb` in GitHub or Jupy
 
 - **Dataset questions:** See the [CIC IoMT 2024 dataset page](https://www.unb.ca/cic/datasets/iomt-dataset-2024.html)
 - **scikit-learn documentation:** [https://scikit-learn.org/stable/](https://scikit-learn.org/stable/)
-- - **pandas documentation:** [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
+- **pandas documentation:** [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
 - **Jupyter documentation:** [https://jupyter.org/documentation](https://jupyter.org/documentation)
 
 ---
