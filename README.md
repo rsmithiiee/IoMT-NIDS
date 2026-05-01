@@ -81,14 +81,6 @@ This project uses the **CIC IoMT Dataset 2024** from the Canadian Institute for 
    pip install pandas scikit-learn jupyter
    ```
 
-   Or using a virtual environment (recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate        # macOS/Linux
-   venv\Scripts\activate           # Windows
-   pip install pandas scikit-learn jupyter
-   ```
-
 ### Dataset Setup
 
 1. Download the CIC IoMT Dataset 2024 CSV files from the link above.
