@@ -63,10 +63,8 @@ This project uses the **CIC IoMT Dataset 2024** from the Canadian Institute for 
 ## Getting Started
 
 ### Prerequisites
-
-- Python 3.9+
+- Python
 - Jupyter Notebook or JupyterLab
-- ~8 GB RAM recommended (the dataset is large; training is memory-intensive)
 
 ### Installation
 
